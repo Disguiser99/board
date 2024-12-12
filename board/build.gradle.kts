@@ -51,7 +51,7 @@ afterEvaluate {
 
                 groupId = "com.github.Disguiser99"
                 artifactId = "board"
-                version = "1.0.4"
+                version = "1.0.5"
             }
         }
     }
