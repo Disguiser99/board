@@ -37,8 +37,8 @@ android {
 
 dependencies {
 
-    implementation(project(":board"))
-
+    implementation("com.github.Disguiser99:board:1.0.5")
+//    implementation(project(":board"))
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.9.0")
